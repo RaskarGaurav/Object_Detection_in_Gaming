@@ -6,7 +6,6 @@ This project is a prototype for implementing Artificial Neural Networks(CNN) in 
 - Prototype only consists of a limited dataset. The original source for a dataset is confidential.
 - I have provided two videos for applied test results.
 - I used JUPYTER NOTEBOOK with a personal GPU. Instead that using GOOGLE COLAB with TPU can improve its accuracy.
-- "dataset" folder consists of images and labels in .jpg and .txt format respectively. 
 - "detect.ipynb" consist of driver code in PYTHON programming language. 
 
 Refer to this project for your future improvements in CNN implementation.
